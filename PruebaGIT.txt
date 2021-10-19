@@ -1,7 +1,10 @@
 Hello world
-<<<<<<< HEAD
+
+hice cambio daniel!!!
+
+
 
 My name is Guillermo Villalba
-=======
+
 Hice cambios Miguel
->>>>>>> a6613e2126116583c0e797b3796c696769aa096d
+
